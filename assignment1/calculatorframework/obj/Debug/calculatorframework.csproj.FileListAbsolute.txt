@@ -1,0 +1,10 @@
+D:\calculatorframework\bin\Debug\calculatorframework.exe.config
+D:\calculatorframework\bin\Debug\calculatorframework.exe
+D:\calculatorframework\bin\Debug\calculatorframework.pdb
+D:\calculatorframework\obj\Debug\calculatorframework.csproj.AssemblyReference.cache
+D:\calculatorframework\obj\Debug\calculatorframework.Form1.resources
+D:\calculatorframework\obj\Debug\calculatorframework.Properties.Resources.resources
+D:\calculatorframework\obj\Debug\calculatorframework.csproj.GenerateResource.cache
+D:\calculatorframework\obj\Debug\calculatorframework.csproj.CoreCompileInputs.cache
+D:\calculatorframework\obj\Debug\calculatorframework.exe
+D:\calculatorframework\obj\Debug\calculatorframework.pdb
