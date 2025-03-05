@@ -1,0 +1,14 @@
+D:\isprime\bin\Debug\net8.0\isprime.exe
+D:\isprime\bin\Debug\net8.0\isprime.deps.json
+D:\isprime\bin\Debug\net8.0\isprime.runtimeconfig.json
+D:\isprime\bin\Debug\net8.0\isprime.dll
+D:\isprime\bin\Debug\net8.0\isprime.pdb
+D:\isprime\obj\Debug\net8.0\isprime.GeneratedMSBuildEditorConfig.editorconfig
+D:\isprime\obj\Debug\net8.0\isprime.AssemblyInfoInputs.cache
+D:\isprime\obj\Debug\net8.0\isprime.AssemblyInfo.cs
+D:\isprime\obj\Debug\net8.0\isprime.csproj.CoreCompileInputs.cache
+D:\isprime\obj\Debug\net8.0\isprime.dll
+D:\isprime\obj\Debug\net8.0\refint\isprime.dll
+D:\isprime\obj\Debug\net8.0\isprime.pdb
+D:\isprime\obj\Debug\net8.0\isprime.genruntimeconfig.cache
+D:\isprime\obj\Debug\net8.0\ref\isprime.dll

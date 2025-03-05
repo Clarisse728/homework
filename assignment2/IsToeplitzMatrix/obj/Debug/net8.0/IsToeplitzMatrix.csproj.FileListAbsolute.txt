@@ -1,0 +1,14 @@
+D:\IsToeplitzMatrix\bin\Debug\net8.0\IsToeplitzMatrix.exe
+D:\IsToeplitzMatrix\bin\Debug\net8.0\IsToeplitzMatrix.deps.json
+D:\IsToeplitzMatrix\bin\Debug\net8.0\IsToeplitzMatrix.runtimeconfig.json
+D:\IsToeplitzMatrix\bin\Debug\net8.0\IsToeplitzMatrix.dll
+D:\IsToeplitzMatrix\bin\Debug\net8.0\IsToeplitzMatrix.pdb
+D:\IsToeplitzMatrix\obj\Debug\net8.0\IsToeplitzMatrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\IsToeplitzMatrix\obj\Debug\net8.0\IsToeplitzMatrix.AssemblyInfoInputs.cache
+D:\IsToeplitzMatrix\obj\Debug\net8.0\IsToeplitzMatrix.AssemblyInfo.cs
+D:\IsToeplitzMatrix\obj\Debug\net8.0\IsToeplitzMatrix.csproj.CoreCompileInputs.cache
+D:\IsToeplitzMatrix\obj\Debug\net8.0\IsToeplitzMatrix.dll
+D:\IsToeplitzMatrix\obj\Debug\net8.0\refint\IsToeplitzMatrix.dll
+D:\IsToeplitzMatrix\obj\Debug\net8.0\IsToeplitzMatrix.pdb
+D:\IsToeplitzMatrix\obj\Debug\net8.0\IsToeplitzMatrix.genruntimeconfig.cache
+D:\IsToeplitzMatrix\obj\Debug\net8.0\ref\IsToeplitzMatrix.dll

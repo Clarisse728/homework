@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35818.85 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "isprime", "isprime.csproj", "{C1435E2E-AC36-4B77-9926-B832DD8AF94E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1435E2E-AC36-4B77-9926-B832DD8AF94E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1435E2E-AC36-4B77-9926-B832DD8AF94E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1435E2E-AC36-4B77-9926-B832DD8AF94E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1435E2E-AC36-4B77-9926-B832DD8AF94E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {968F4A10-5A68-441E-A91A-4C3E7AB8E2FE}
+	EndGlobalSection
+EndGlobal
