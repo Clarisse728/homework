@@ -1,0 +1,14 @@
+D:\isShape\bin\Debug\net8.0\isShape.exe
+D:\isShape\bin\Debug\net8.0\isShape.deps.json
+D:\isShape\bin\Debug\net8.0\isShape.runtimeconfig.json
+D:\isShape\bin\Debug\net8.0\isShape.dll
+D:\isShape\bin\Debug\net8.0\isShape.pdb
+D:\isShape\obj\Debug\net8.0\isShape.GeneratedMSBuildEditorConfig.editorconfig
+D:\isShape\obj\Debug\net8.0\isShape.AssemblyInfoInputs.cache
+D:\isShape\obj\Debug\net8.0\isShape.AssemblyInfo.cs
+D:\isShape\obj\Debug\net8.0\isShape.csproj.CoreCompileInputs.cache
+D:\isShape\obj\Debug\net8.0\isShape.dll
+D:\isShape\obj\Debug\net8.0\refint\isShape.dll
+D:\isShape\obj\Debug\net8.0\isShape.pdb
+D:\isShape\obj\Debug\net8.0\isShape.genruntimeconfig.cache
+D:\isShape\obj\Debug\net8.0\ref\isShape.dll
