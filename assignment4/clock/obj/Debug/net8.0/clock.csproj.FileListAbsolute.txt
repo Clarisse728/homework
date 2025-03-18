@@ -1,0 +1,14 @@
+D:\clock\obj\Debug\net8.0\clock.GeneratedMSBuildEditorConfig.editorconfig
+D:\clock\obj\Debug\net8.0\clock.AssemblyInfoInputs.cache
+D:\clock\obj\Debug\net8.0\clock.AssemblyInfo.cs
+D:\clock\obj\Debug\net8.0\clock.csproj.CoreCompileInputs.cache
+D:\clock\bin\Debug\net8.0\clock.exe
+D:\clock\bin\Debug\net8.0\clock.deps.json
+D:\clock\bin\Debug\net8.0\clock.runtimeconfig.json
+D:\clock\bin\Debug\net8.0\clock.dll
+D:\clock\bin\Debug\net8.0\clock.pdb
+D:\clock\obj\Debug\net8.0\clock.dll
+D:\clock\obj\Debug\net8.0\refint\clock.dll
+D:\clock\obj\Debug\net8.0\clock.pdb
+D:\clock\obj\Debug\net8.0\clock.genruntimeconfig.cache
+D:\clock\obj\Debug\net8.0\ref\clock.dll
