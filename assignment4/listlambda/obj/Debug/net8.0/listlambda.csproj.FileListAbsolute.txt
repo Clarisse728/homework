@@ -1,0 +1,14 @@
+D:\listlambda\bin\Debug\net8.0\listlambda.exe
+D:\listlambda\bin\Debug\net8.0\listlambda.deps.json
+D:\listlambda\bin\Debug\net8.0\listlambda.runtimeconfig.json
+D:\listlambda\bin\Debug\net8.0\listlambda.dll
+D:\listlambda\bin\Debug\net8.0\listlambda.pdb
+D:\listlambda\obj\Debug\net8.0\listlambda.GeneratedMSBuildEditorConfig.editorconfig
+D:\listlambda\obj\Debug\net8.0\listlambda.AssemblyInfoInputs.cache
+D:\listlambda\obj\Debug\net8.0\listlambda.AssemblyInfo.cs
+D:\listlambda\obj\Debug\net8.0\listlambda.csproj.CoreCompileInputs.cache
+D:\listlambda\obj\Debug\net8.0\listlambda.dll
+D:\listlambda\obj\Debug\net8.0\refint\listlambda.dll
+D:\listlambda\obj\Debug\net8.0\listlambda.pdb
+D:\listlambda\obj\Debug\net8.0\listlambda.genruntimeconfig.cache
+D:\listlambda\obj\Debug\net8.0\ref\listlambda.dll
