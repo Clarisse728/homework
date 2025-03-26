@@ -1,0 +1,14 @@
+D:\orderorganization\obj\Debug\net8.0\orderorganization.GeneratedMSBuildEditorConfig.editorconfig
+D:\orderorganization\obj\Debug\net8.0\orderorganization.AssemblyInfoInputs.cache
+D:\orderorganization\obj\Debug\net8.0\orderorganization.AssemblyInfo.cs
+D:\orderorganization\obj\Debug\net8.0\orderorganization.csproj.CoreCompileInputs.cache
+D:\orderorganization\bin\Debug\net8.0\orderorganization.exe
+D:\orderorganization\bin\Debug\net8.0\orderorganization.deps.json
+D:\orderorganization\bin\Debug\net8.0\orderorganization.runtimeconfig.json
+D:\orderorganization\bin\Debug\net8.0\orderorganization.dll
+D:\orderorganization\bin\Debug\net8.0\orderorganization.pdb
+D:\orderorganization\obj\Debug\net8.0\orderorganization.dll
+D:\orderorganization\obj\Debug\net8.0\refint\orderorganization.dll
+D:\orderorganization\obj\Debug\net8.0\orderorganization.pdb
+D:\orderorganization\obj\Debug\net8.0\orderorganization.genruntimeconfig.cache
+D:\orderorganization\obj\Debug\net8.0\ref\orderorganization.dll
